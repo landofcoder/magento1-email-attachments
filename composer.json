@@ -1,0 +1,25 @@
+{
+  "name": "landofcoder/magento1-pdfattachments",
+  "description": "A Magento 1 extension to attach PDF documents to emails.",
+  "type": "magento-module",
+  "keywords": [
+    "landofcoder",
+    "magento",
+    "pdf"
+  ],
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Landofcoder",
+      "email": "info@landofcoder.com",
+      "homepage": "https://landofcoder.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "info@landofcoder.com",
+    "faq": "https://landofcoder.com/contacts"
+  },
+  "require-dev": {
+  }
+}
